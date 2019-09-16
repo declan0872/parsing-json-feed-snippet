@@ -1,6 +1,7 @@
 # Parsing JSON Feed Snippet
 
-How to parse a JSON feed using Swift 5
+In this snippet, the JSON feed is parsed using structs of type codeable and an instance of URLSession.
+A sample JSON feed is called from jsonplaceholder.typicode.com.
 
 ## Tech Specs
 
