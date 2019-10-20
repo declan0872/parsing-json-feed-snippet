@@ -5,7 +5,7 @@ A sample JSON feed is called from jsonplaceholder.typicode.com.
 
 ## Tech Specs
 
-- iOS 12.2
+- Supports iOS 12 and iOS 13
 - Swift 5
 
 
